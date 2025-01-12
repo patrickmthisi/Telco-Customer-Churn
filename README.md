@@ -1,5 +1,6 @@
 # Telco-Customer-Churn
-The project focuses on analyzing customer data to develop a targeted retention program by predicting customer behavior, specifically churn. It involves:
+## Project objectives and description
+The project analyzes customer data to develop a targeted retention program by predicting customer behavior, specifically churn. It involves:
 
 - Exploring various machine learning models to predict customer churn.
 - Creating a production-ready scorecard to rank Telco customers by their likelihood of churn.
