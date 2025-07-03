@@ -14,6 +14,20 @@ The project analyzes customer data to develop a targeted retention program by pr
 ## Conclusion and recommendations
 In this project, we created a customer attrition scorecard that can be used to evaluate clients based on their likelihood of attrition. The scorecard shows stellar performance, achieving a ROC AUC of 87% (and Gini of 0.74), which is quite comparable, if not better, than most models that were presented on Kaggle by other participants:
 
+<!-- Side-by-side images using HTML table -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="Test_ROC_AUC.png" alt="Test ROC AUC" style="width:85%">
+      <br><em>Test ROC AUC</em>
+    </td>
+    <td align="center">
+      <img src="Test_Gini.png" alt="Test Gini" style="width:100%">
+      <br><em>Test Gini</em>
+    </td>
+  </tr>
+</table>
+
 The performance of the scorecard was evaluated using out-of-sample "evolved" data. The scorecard effectively ranked risk, as demonstrated by the decile distribution and the churn versus non-churn distribution shown below:
 
 <!-- Side-by-side images using HTML table -->
