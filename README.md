@@ -18,11 +18,11 @@ In this project, we created a customer attrition scorecard that can be used to e
 <table>
   <tr>
     <td align="center">
-      <img src="Test_ROC_AUC.png" alt="Test ROC AUC" style="width:100%">
+      <img src="Test_ROC_AUC.png" alt="Test ROC AUC" style="width:85%">
       <br><em>Test ROC AUC</em>
     </td>
     <td align="center">
-      <img src="Test_Gini.png" alt="Test Gini" style="width:100%">
+      <img src="Test_Gini.png" alt="Test Gini" style="width:85%">
       <br><em>Test Gini</em>
     </td>
   </tr>
@@ -34,7 +34,7 @@ The performance of the scorecard was evaluated using out-of-sample "evolved" dat
 <table>
   <tr>
     <td align="center">
-      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:100%">
+      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:85%">
       <br><em>Decile distribution of churn risk</em>
     </td>
     <td align="center">
