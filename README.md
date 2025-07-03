@@ -12,12 +12,9 @@ The project analyzes customer data to develop a targeted retention program by pr
 - Assessing scorecard stability using Population Stability Index (PSI) and Characteristic Stability Index (CSI)
 
 ## Conclusion and recommendations
-We created a customer attrition scorecard that evaluates clients based on their churn likelihood. The scorecard shows stellar performance, achieving:
-- **ROC AUC of 87%** (Gini of 0.74)
-- Outperforms most Kaggle competition models
-- Effectively handles "evolved" out-of-sample data
+In this project, we created a customer attrition scorecard that can be used to evaluate clients based on their likelihood of attrition. The scorecard shows stellar performance, achieving a ROC AUC of 87% (and Gini of 0.74), which is quite comparable, if not better, than most models that were presented on Kaggle by other participants:
 
-Performance demonstrated by risk ranking distributions:
+The performance of the scorecard was evaluated using out-of-sample "evolved" data. The scorecard effectively ranked risk, as demonstrated by the decile distribution and the churn versus non-churn distribution shown below:
 
 <!-- Side-by-side images using HTML table -->
 <table>
