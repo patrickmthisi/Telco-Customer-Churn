@@ -45,7 +45,7 @@ The performance of the scorecard was evaluated using out-of-sample "evolved" dat
 </table>
 
 **Recommendations:**
-1. Focus retention efforts on top 3 deciles (highest churn risk)
+1. Focus retention efforts on the top 3 deciles (highest churn risk)
 2. Monitor scorecard stability quarterly using PSI/CSI metrics
 3. Explore additional models (XGBoost, Neural Networks)
 4. Test alternative variable selection criteria
