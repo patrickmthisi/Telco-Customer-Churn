@@ -34,11 +34,11 @@ The performance of the scorecard was evaluated using out-of-sample "evolved" dat
 <table>
   <tr>
     <td align="center">
-      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:85%">
+      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:100%">
       <br><em>Decile distribution of churn risk</em>
     </td>
     <td align="center">
-      <img src="churn_no_churn_distribution.png" alt="Churn Distribution" style="width:100%">
+      <img src="churn_no_churn_distribution.png" alt="Churn Distribution" style="width:120%">
       <br><em>Churn vs non-churn distribution</em>
     </td>
   </tr>
