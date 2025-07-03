@@ -16,6 +16,8 @@ In this project, we created a customer attrition scorecard that can be used to e
 
 The performance of the scorecard was evaluated using out-of-sample "evolved" data. The scorecard effectively ranked risk, as demonstrated by the decile distribution and the churn versus non-churn distribution shown below:
 
+![deciles](out_of_sample_decile_distribution.png)
+
 ![churn](churn_no_churn_distribution.png)
 
 
