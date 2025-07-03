@@ -23,7 +23,7 @@ Performance demonstrated by risk ranking distributions:
 <table>
   <tr>
     <td align="center">
-      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:80%">
+      <img src="out_of_sample_decile_distribution.png" alt="Decile Distribution" style="width:85%">
       <br><em>Decile distribution of churn risk</em>
     </td>
     <td align="center">
