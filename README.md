@@ -1,4 +1,7 @@
 # Telco-Customer-Churn
+- $\textbf{Author}$: Patrick Mthisi
+- $\textbf{Contact details}$: patrickmthisi@hotmail.com
+
 ## Project objectives and description
 
 The dataset used in the project was sourced from: [Kaggle Telco Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data).
