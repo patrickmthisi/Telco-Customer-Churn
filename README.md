@@ -55,4 +55,3 @@ The performance of the scorecard was evaluated using out-of-sample "evolved" dat
 
 ---
 
-**Note:** Ensure both image files (`out_of_sample_decile_distribution.png` and `churn_no_churn_distribution.png`) are in your repository's root directory or adjust the paths accordingly.
